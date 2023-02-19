@@ -1,1 +1,1 @@
-# Text_Mining_of_Twitter_Data_for_Qatar_World_Cup
+# Text Mining of Twitter Data for Qatar World Cup
