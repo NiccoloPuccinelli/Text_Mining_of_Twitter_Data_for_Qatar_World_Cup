@@ -12,7 +12,7 @@ The combinations of embeddings and models were finally evaluated according to sp
 
 The dataset is contained in `Tweets.zip`, where you can find the raw tweets, the pre-processed tweets and a list of the most popular hashtags. 
 
-Python language.
+**Python** language.
 
 ## How-to guidelines
 
